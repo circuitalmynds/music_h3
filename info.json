@@ -1,5 +1,55 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "m_kLraQn1tc",
+            "name": "Slow Dances-m_kLraQn1tc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/h3/videos/Slow Dances-m_kLraQn1tc.mp4",
+            "size": 19.265151,
+            "url": "https://github.com/circuitalmynds/music_h3/blob/main/videos/Slow Dances-m_kLraQn1tc.mp4?raw=true"
+        },
+        {
+            "id": "mR-jbLpyKiE",
+            "name": "Historia de Play-Back-mR-jbLpyKiE.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/h3/videos/Historia de Play-Back-mR-jbLpyKiE.mp4",
+            "size": 3.893995,
+            "url": "https://github.com/circuitalmynds/music_h3/blob/main/videos/Historia de Play-Back-mR-jbLpyKiE.mp4?raw=true"
+        },
+        {
+            "id": "JhLxK2xGqqo",
+            "name": "Rossini - The Barber of Seville - Largo Al Factotum (Figaro) [HQ]-JhLxK2xGqqo.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/h3/videos/Rossini - The Barber of Seville - Largo Al Factotum (Figaro) [HQ]-JhLxK2xGqqo.mp4",
+            "size": 5.274458,
+            "url": "https://github.com/circuitalmynds/music_h3/blob/main/videos/Rossini - The Barber of Seville - Largo Al Factotum (Figaro) [HQ]-JhLxK2xGqqo.mp4?raw=true"
+        },
+        {
+            "id": "A4kAP2xjxuA",
+            "name": "Keyboard Sonata No. 12 in A Major, Hob. XVI, 12 - II. Menuet-A4kAP2xjxuA.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/h3/videos/Keyboard Sonata No. 12 in A Major, Hob. XVI, 12 - II. Menuet-A4kAP2xjxuA.mp4",
+            "size": 3.3017779999999997,
+            "url": "https://github.com/circuitalmynds/music_h3/blob/main/videos/Keyboard Sonata No. 12 in A Major, Hob. XVI, 12 - II. Menuet-A4kAP2xjxuA.mp4?raw=true"
+        },
+        {
+            "id": "TQeCi1PGqz0",
+            "name": "Andr\u00e9 Messager arr. Lanchbery  - The Two Pigeons, Act I of the ballet in two acts (1886 arr. 1961)-TQeCi1PGqz0.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/h3/videos/Andr\u00e9 Messager arr. Lanchbery  - The Two Pigeons, Act I of the ballet in two acts (1886 arr. 1961)-TQeCi1PGqz0.mp4",
+            "size": 40.457239,
+            "url": "https://github.com/circuitalmynds/music_h3/blob/main/videos/Andr\u00e9 Messager arr. Lanchbery  - The Two Pigeons, Act I of the ballet in two acts (1886 arr. 1961)-TQeCi1PGqz0.mp4?raw=true"
+        },
+        {
+            "id": "RWzU5tULMJc",
+            "name": "Franz Xaver Su\u0308ssmayr - Sinfonia 'Turchesca' in C major, SmWV.403 (18th century)-RWzU5tULMJc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/h3/videos/Franz Xaver Su\u0308ssmayr - Sinfonia 'Turchesca' in C major, SmWV.403 (18th century)-RWzU5tULMJc.mp4",
+            "size": 32.591158,
+            "url": "https://github.com/circuitalmynds/music_h3/blob/main/videos/Franz Xaver Su\u0308ssmayr - Sinfonia 'Turchesca' in C major, SmWV.403 (18th century)-RWzU5tULMJc.mp4?raw=true"
+        },
+        {
+            "id": "XCgBHyjHN1o",
+            "name": "Keyboard Sonata No. 16 in D Major, Hob. XVI, 14 - III. Finale - Allegro-XCgBHyjHN1o.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/h3/videos/Keyboard Sonata No. 16 in D Major, Hob. XVI, 14 - III. Finale - Allegro-XCgBHyjHN1o.mp4",
+            "size": 3.5662749999999996,
+            "url": "https://github.com/circuitalmynds/music_h3/blob/main/videos/Keyboard Sonata No. 16 in D Major, Hob. XVI, 14 - III. Finale - Allegro-XCgBHyjHN1o.mp4?raw=true"
+        }
+    ],
+    "total_size": 108.35005400000001
 }
